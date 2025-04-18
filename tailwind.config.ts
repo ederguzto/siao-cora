@@ -14,6 +14,7 @@ export default {
       colors: {
         border: 'hsl(var(--border))',
         background: 'hsl(var(--background))',
+        foreground: 'hsl(var(--foreground))', // Add this line
         primary: '#E5DEFF',
         secondary: '#F3EEFF',
         accent: {
