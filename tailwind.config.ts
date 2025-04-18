@@ -12,6 +12,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        border: 'hsl(var(--border))',
         primary: '#E5DEFF',
         secondary: '#F3EEFF',
         accent: {
